@@ -60,7 +60,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="510" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="530">17</tspan>
 <tspan x="370" y="550" class="keyColor">Repos</tspan>: <tspan class="valueColor">22</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">272    </tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">0</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5   </tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">890,240</tspan>| <tspan class="keyColor">1,118,761++</tspan>: <tspan class="valueColor">228,521--</tspan> (<tspan class="addColor">1,118,078++</tspan>, <tspan class="delColor">228,472--</tspan>)
+<tspan x="370" y="570" class="keyColor">Followers</tspan>: <tspan class="valueColor">890,240</tspan>| <tspan class="keyColor">1,118,761++</tspan>: <tspan class="valueColor">228,521--</tspan> (<tspan class="addColor">1,118,078++</tspan>, <tspan class="delColor">228,472--</tspan>)
 </text>
 
 </svg>
