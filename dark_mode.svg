@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="590px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -8,7 +8,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="570px" fill="#161b22" rx="15"/>
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
@@ -57,10 +57,10 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">giulio-manuzzi</tspan>
 <tspan x="370" y="410" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@giulio_man</tspan>
 <tspan x="370" y="430" class="keyColor">Intagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
-<tspan x="370" y="510" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="530">17</tspan>
-<tspan x="370" y="550" class="keyColor">Repos</tspan>: <tspan class="valueColor">22</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">272    </tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">0</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5   </tspan>
-<tspan x="370" y="570" class="keyColor">Followers</tspan>: <tspan class="valueColor">890,240</tspan>| <tspan class="keyColor">1,118,761++</tspan>: <tspan class="valueColor">228,521--</tspan> (<tspan class="addColor">1,118,078++</tspan>, <tspan class="delColor">228,472--</tspan>)
+<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="470">——————</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">78</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">113</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,863  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">167</tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">45  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">429,030</tspan> (<tspan class="addColor">498,877++</tspan>, <tspan class="delColor">69,847--</tspan>)
 </text>
 
 </svg>
