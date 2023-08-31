@@ -55,12 +55,12 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="350">——————</tspan>
 <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">giuliomanuzzi@gmail.com</tspan>
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">giulio-manuzzi</tspan>
-<tspan x="370" y="390" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@giulio_man</tspan>
-<tspan x="370" y="390" class="keyColor">Intagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
-<tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">17</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">22</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">270    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">0</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">5   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">889,606</tspan> (<tspan class="addColor">1,118,078++</tspan>, <tspan class="delColor">228,472--</tspan>)
+<tspan x="370" y="410" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@giulio_man</tspan>
+<tspan x="370" y="430" class="keyColor">Intagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
+<tspan x="370" y="510" class="keyColor">GitHub Stats</tspan>:
+<tspan x="370" y="530">17</tspan>
+<tspan x="370" y="550" class="keyColor">Repos</tspan>: <tspan class="valueColor">22</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">272    </tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">0</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5   </tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">890,240</tspan>| <tspan class="keyColor">1,118,761++</tspan>: <tspan class="valueColor">228,521--</tspan> (<tspan class="addColor">1,118,078++</tspan>, <tspan class="delColor">228,472--</tspan>)
 </text>
 
 </svg>
