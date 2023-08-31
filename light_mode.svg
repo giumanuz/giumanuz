@@ -11,31 +11,31 @@ text, tspan {white-space: pre;}
 <rect width="970px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30"> ,*,************/**//#%%(/*(##***,*/((#,,,,,,,,,,,,,,,,,,,,,,</tspan>
-<tspan x="15" y="50"> ,,,,,,,,,,,/,/(,,,#((((%%##%((&####(((#%(,*,,,,,,,,,,,,,,,,,</tspan>
-<tspan x="15" y="70"> ,,,,,,,(((#########%##((#####(#%&%%#&%((%&%%/##,,,,,,,,,,,,,</tspan>
-<tspan x="15" y="90"> ,,,,,,,,((##(#%%%##%(#%&&%%&&%&&%&%%&&&&#%&&%(/#(,,,,,,,,,,,</tspan>
-<tspan x="15" y="110"> ,,,,,,,,,%%%&%&&%&&@(#&&&%%%%%%&%&&&&%#(#&&&&&%&##,,,,,,,,,,</tspan>
-<tspan x="15" y="130"> ,,,,,,,,,#%#%%&&@@%%@@&&&&@&&&&@@@@&&@@@&%#&%&@@##,(%/,,,,,,</tspan>
-<tspan x="15" y="150"> ,,,,,,,*%#%&&&%%%%&%%%&&&&%&&&&&&&&&&&@&@@&&&&&&%&&&&%%,,,,,</tspan>
-<tspan x="15" y="170"> ,,,,/#%#&%%%%%@&&&&%%%###%%%%&&&@@@&&@&&&@@@&&&&@&&@&%##,,,,</tspan>
-<tspan x="15" y="190"> ,,,,((&&&&&&@&@&&##&&%%%%&&%&#@%%&&&&&&&@&&@&&&&@&%%&@%%*(/,</tspan>
-<tspan x="15" y="210"> ,,,,**%&&%%%@@@%/((%&%%%(((#%%%&@&&%%&%%@@&&&&@%&@@@#(#%,,,,</tspan>
-<tspan x="15" y="230"> ,,,,,(/#&&&&&&(**/((((#(///#%%%&&&&&&@%&@@@@@@@&@@@@@&&#,,,,</tspan>
-<tspan x="15" y="250"> .,,,//%#%&&&&(****/////**/(###%#@&#%##%%%@&&@@&&@&@&#%%%#.,,</tspan>
-<tspan x="15" y="270"> ////#(##%%%&&**//(((//*///((((((####(##%@&&@&&@&@@&&@%&&(,,,</tspan>
-<tspan x="15" y="290"> *****/(%%&&&(*/##(/////////((/(///////#&&&@@&%@@@@&&&%#%%%.,</tspan>
-<tspan x="15" y="310"> ********%%&&**/(%&#//######(###(/////(&@@@@&&&&@@&@@&%%.,,,,</tspan>
-<tspan x="15" y="330"> ***,*,**%&&&**//*&/*//####(((###(((((#%&%@&@&&@&&&&&%#%,.,..</tspan>
-<tspan x="15" y="350"> ,,,,,,,/#&&&(******/(((/(/(#&%#(/((((&%%%&@@@@@&&&&%&#......</tspan>
-<tspan x="15" y="370"> ,,,,,,,,**/%%,,,***/((/////////(((((#@@@@@@@@@&&&&&#(,,.,...</tspan>
-<tspan x="15" y="390"> ,,,,,,,,**/%%******////*//////((((#&@@@@@@@&@&*#%#,,,.......</tspan>
-<tspan x="15" y="410"> ,,,,,,,,**%#,,**((((((((/////((###@@@@@&@&&&,,*,,...........</tspan>
-<tspan x="15" y="430"> ,,,,,,,,,,,(,*****/##%%%%%%((((/(@@@@@&&@%#%,...............</tspan>
-<tspan x="15" y="450"> ,,,,,,,....,,******/((##((//////(**,(&(,*,..................</tspan>
-<tspan x="15" y="470"> ,,,,,,,..&*,,**,,,*////((///////#*&*........................</tspan>
-<tspan x="15" y="490"> ,,,,,,*#&.**,,,*,,****///******(*,*&%.......................</tspan>
-<tspan x="15" y="510"> ,,,*###%&..*(********///////*(,,,,*&%%##....................</tspan>
+<tspan x="15" y="30">            ;;,, ,;,|g;~,,                      </tspan>
+<tspan x="15" y="50">         ,g@@@@@@l&amp;$$$@|,w$$@gy,            </tspan>
+<tspan x="15" y="70">        $@@@@@@@@@@$@@@@@@@@$$MW$k              </tspan>
+<tspan x="15" y="90">       $$@@@@@@B@@@@@@@@@@@@@$@$$g,$            </tspan>
+<tspan x="15" y="110">     g@llM**'''||%@@@@@$@@$@@@@@@@L$&amp;      </tspan>
+<tspan x="15" y="130">   @$&amp;$F         ''T%M$@@@@@@@@@@@$@$@     </tspan>
+<tspan x="15" y="150">  @@@@F              ']@@@@@@$$@$@@@@          </tspan>
+<tspan x="15" y="170">  @@@$L               |$@@@$$l$@@@@$F          </tspan>
+<tspan x="15" y="190"> ]@@@@L ,@@$@@@@L  ,l@$$$$$$$$$@@@@@           </tspan>
+<tspan x="15" y="210">  %$@@@$}',,gg@||@@@@l@g@ggg|l$&amp;$@@$       </tspan>
+<tspan x="15" y="230">  ]@@@@@'&quot;*TTTTT'F  ]Wl|||''&quot;'$]@@@@ </tspan>
+<tspan x="15" y="250">   $$@M$       ,#    ]gg,,,,,.r'$@$            </tspan>
+<tspan x="15" y="270">    &amp;$L        ' ,, ,,,'T''`    $$L        </tspan>
+<tspan x="15" y="290">     lL         T&quot;||||!   `-    l&quot;'  </tspan>
+<tspan x="15" y="310">     ' |        '||l||||&quot;|L|  L `         </tspan>
+<tspan x="15" y="330">      ''   '|L++=*****&quot;&quot;*&quot;||` L|</tspan>
+<tspan x="15" y="350">        |           ,,      |||F               </tspan>
+<tspan x="15" y="370">        '         |||||||| ||l$                </tspan>
+<tspan x="15" y="390">          !                |l&amp;L            </tspan>
+<tspan x="15" y="410">           '!,       |||,||@M|L                </tspan>
+<tspan x="15" y="430">            ||l&amp;$@$$@$$$@$MT|||            </tspan>
+<tspan x="15" y="450">         |    |||lll$$llll|||||L               </tspan>
+<tspan x="15" y="470">    ,;y@        ||||||l||@|||||l               </tspan>
+<tspan x="15" y="490">,g$@$$$@         |||||||||||||||| $g,          </tspan>
+<tspan x="15" y="510">$$$$$$$$@    |    |||||||||||||| |$$@g         </tspan>
 </text>
 
 <text x="370" y="30" fill="#24292f">
@@ -56,6 +56,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">giuliomanuzzi@gmail.com</tspan>
 <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">giulio-manuzzi</tspan>
 <tspan x="370" y="410" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@giulio_man</tspan>
+<tspan x="370" y="430" class="keyColor">Intagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
 <tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">22</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">272    </tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">0</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">5   </tspan>
