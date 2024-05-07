@@ -41,11 +41,11 @@ text, tspan {white-space: pre;}
 <text x="470" y="30" fill="#c9d1d9">
 <tspan x="470" y="30">giumanuz</tspan>
 <tspan x="470" y="50">——————</tspan>
-<tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
+<tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">iOS, Linux, Windows</tspan>
 <tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years, 6 months, 21 days</tspan>
 <tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of Milan, Italy</tspan><tspan class="commentColor"> #POLIMI</tspan>
-<tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Artificial Intelligence and Machine Learning Engineering</tspan><tspan class="commentColor"/>
-<tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.64.0</tspan>
+<tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">AI and Machine Learning Engineering</tspan><tspan class="commentColor"/>
+<tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, PyCharm, IntelliJ IDEA, WebStorm</tspan>
 <tspan x="470" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++, C, Java, JavaScript</tspan>
 <tspan x="470" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
 <tspan x="470" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">Italian, English</tspan>
