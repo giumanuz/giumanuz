@@ -4,9 +4,9 @@
 
 
 ## Hey! 👋
-I'm Giulio, a 22 years old Software Engineer from Italy
+I'm Giulio, a 23 years old Software Engineer from Italy
 - 📝 I'm a MSc student in Artificial Intelligence
-- 🚀 Software Engineer Intern at finccam
+- 🚀 Incoming Software Developer @Amazon
 
 
 ***
@@ -16,12 +16,12 @@ I'm Giulio, a 22 years old Software Engineer from Italy
 
 ---
 ### 📫 Connect with me:
-[<img align="left" alt="giu_man | LinkedIn" width="50px" style="color:red" src="logos/linkedin.svg" />][linkedin]
-[<img align="left" alt="giu_man | Gmail" width="50px" style="color:blue" src="logos/gmail.svg" />][gmail]
-[<img align="left" alt="giu_man | Telegram" width="50px" style="color:blue" src="logos/telegram.svg" />][telegram]
-[<img align="left" alt="giu_man | Instagram" width="50px" style="color:red" src="logos/instagram.svg" />][instagram]
+[<img align="left" alt="giuliomanuzzi | LinkedIn" width="50px" style="color:red" src="logos/linkedin.svg" />][linkedin]
+[<img align="left" alt="giuliomanuzzi | Gmail" width="50px" style="color:blue" src="logos/gmail.svg" />][gmail]
+[<img align="left" alt="gmanuzz | Telegram" width="50px" style="color:blue" src="logos/telegram.svg" />][telegram]
+[<img align="left" alt="giulio_manuzzii | Instagram" width="50px" style="color:red" src="logos/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/giulio-manuzzi
 [gmail]: mailto:giuliomanuzzi@gmail.com
-[telegram]: https://t.me/giulio_man
+[telegram]: https://t.me/gmanuzz
 [instagram]: https://www.instagram.com/giulio_manuzzii
