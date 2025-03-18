@@ -1,0 +1,9 @@
+services:
+  daily-script:
+    build: .
+    container_name: daily-script
+    volumes:
+      - ./cache:/app/cache
+    env_file:
+      - .env
+    restart: always

@@ -5,9 +5,12 @@ import os
 from xml.dom import minidom
 import time
 import hashlib
+from dotenv import load_dotenv
+import subprocess
 
-# Personal access token with permissions: read:enterprise, read:org, read:repo_hook, read:user, repo
-HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
+load_dotenv()
+
+HEADERS = {'authorization': 'token '+ os.getenv('GITHUB_TOKEN')}
 USER_NAME = 'giumanuz'
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
@@ -418,14 +421,39 @@ def formatter(query_type, difference, funct_return=False, whitespace=0):
         return f"{'{:,}'.format(funct_return): <{whitespace}}"
     return funct_return
 
+def commit_and_push(branch="main"):
+    """
+    Commits changes and pushes them to the specified branch.
+    """
+    OWNER = "giumanuz"
+    REPO_NAME = "giumanuz"    
+    
+    subprocess.run(["git", "config", "--global", "user.name", "giumanuz"])
+    subprocess.run(["git", "config", "--global", "user.email", "giuliomanuzzi@gmail.com"])
+
+    subprocess.run(["git", "add", "."])
+    
+    commit_message = "chore: daily data update"
+    subprocess.run(["git", "commit", "-m", commit_message])
+
+    token = os.getenv("GITHUB_TOKEN")
+    if not token:
+        print("Error: GITHUB_TOKEN not found in environment.")
+        return
+
+    repo_url = f"https://{token}@github.com/{OWNER}/{REPO_NAME}.git"
+
+    subprocess.run(["git", "pull", "--rebase", repo_url, branch])
+    push_result = subprocess.run(["git", "push", repo_url, branch])
+    
+    if push_result.returncode == 0:
+        print("Push completed successfully!")
+    else:
+        print("An error occurred during the push.")
+
 
 if __name__ == '__main__':
-    """
-    Andrew Grant (Andrew6rant), 2022-2023
-    """
     print('Calculation times:')
-    # define global variable for owner ID and calculate user's creation date
-    # e.g {'id': 'MDQ6VXNlcjU3MzMxMTM0'} and 2019-11-03T21:15:07Z for username 'Andrew6rant'
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
@@ -457,3 +485,5 @@ if __name__ == '__main__':
 
     print('Total GitHub GraphQL API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
     for funct_name, count in QUERY_COUNT.items(): print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))
+
+    commit_and_push(branch="main")

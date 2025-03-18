@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+
+50 20 * * * cd /app && python today.py >> /var/log/cron.log 2>&1
