@@ -1,4 +1,5 @@
 SHELL=/bin/bash
 PATH=/usr/local/bin:/usr/bin:/bin
 
-54 20 * * * cd /app && python today.py >> /var/log/cron.log 2>&1
+# cron job to run the script every day at 4:00 AM
+00 03 * * * cd /app && python today.py >> /var/log/cron.log 2>&1

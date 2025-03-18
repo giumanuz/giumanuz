@@ -443,8 +443,8 @@ def commit_and_push(branch="main"):
 
     repo_url = f"https://{token}@github.com/{OWNER}/{REPO_NAME}.git"
 
-    subprocess.run(["git", "pull", "--rebase", repo_url, branch])
-    push_result = subprocess.run(["git", "push", repo_url, branch])
+    push_result = subprocess.run(["git", "push", "--force", "--all", repo_url, branch])
+
     
     if push_result.returncode == 0:
         print("Push completed successfully!")
