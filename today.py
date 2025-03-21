@@ -464,10 +464,6 @@ def commit_and_push(branch="main"):
     OWNER = "giumanuz"
     REPO_NAME = "giumanuz"
 
-    subprocess.run(["git", "config", "--global", "user.name", "giumanuz"])
-    subprocess.run(["git", "config", "--global",
-                   "user.email", "giuliomanuzzi@gmail.com"])
-
     token = os.getenv("GITHUB_TOKEN")
     if not token:
         print("Error: GITHUB_TOKEN not found in environment.")
@@ -475,7 +471,15 @@ def commit_and_push(branch="main"):
 
     repo_url = f"https://{token}@github.com/{OWNER}/{REPO_NAME}.git"
 
-    # Pull latest changes first
+    # Configure git to use HTTPS instead of SSH
+    subprocess.run(["git", "config", "--global",
+                   "url.https://github.com/.insteadOf", "git@github.com:"])
+
+    subprocess.run(["git", "config", "--global", "user.name", "giumanuz"])
+    subprocess.run(["git", "config", "--global",
+                   "user.email", "giuliomanuzzi@gmail.com"])
+
+    # Pull latest changes using HTTPS
     pull_result = subprocess.run(["git", "pull", repo_url, branch])
     if pull_result.returncode != 0:
         print("Warning: Failed to pull latest changes.")
