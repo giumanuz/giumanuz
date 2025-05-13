@@ -42,7 +42,7 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="30">giumanuz</tspan>
 <tspan x="470" y="50">——————</tspan>
 <tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">iOS, Linux, Windows</tspan>
-<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years, 6 months, 26 days</tspan>
+<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years, 6 months, 27 days</tspan>
 <tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of Milan, Italy</tspan><tspan class="commentColor"> #POLIMI</tspan>
 <tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">AI and Machine Learning Engineering</tspan><tspan class="commentColor"/>
 <tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, PyCharm, IntelliJ IDEA, WebStorm</tspan>
@@ -58,8 +58,8 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="410" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@gmanuzz</tspan>
 <tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="470" y="470">——————</tspan>
-<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">30</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">35</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">920    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
-<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">6   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">1,770,365</tspan> (<tspan class="addColor">3,244,457++</tspan>, <tspan class="delColor">1,474,092--</tspan>)
+<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">31</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">36</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">927    </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1</tspan>
+<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">6   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">1,772,688</tspan> (<tspan class="addColor">3,246,815++</tspan>, <tspan class="delColor">1,474,127--</tspan>)
 </text>
 
 </svg>
