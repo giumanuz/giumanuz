@@ -348,16 +348,18 @@ def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib
     """
     svg = minidom.parse(filename)
     f = open(filename, mode='w', encoding='utf-8')
-    tspan = svg.getElementsByTagName('tspan')
-    tspan[30].firstChild.data = age_data
-    tspan[65].firstChild.data = repo_data
-    tspan[67].firstChild.data = contrib_data
-    tspan[69].firstChild.data = commit_data
-    tspan[71].firstChild.data = star_data
-    tspan[73].firstChild.data = follower_data
-    tspan[75].firstChild.data = loc_data[2]
-    tspan[76].firstChild.data = loc_data[0] + '++'
-    tspan[77].firstChild.data = loc_data[1] + '--'
+    # Look the value tspans up by id, not by position. Indexing by position broke
+    # light_mode.svg the moment a contact line was added ahead of the stats: every
+    # index shifted by two and the values landed under the wrong labels. The ascii
+    # art is a few dozen tspans of the same document, so it moves them too.
+    nodes = {t.getAttribute('id'): t
+             for t in svg.getElementsByTagName('tspan') if t.getAttribute('id')}
+    for key, value in (('age', age_data), ('repos', repo_data), ('contrib', contrib_data),
+                       ('commits', commit_data), ('stars', star_data),
+                       ('followers', follower_data), ('loc', loc_data[2]),
+                       ('loc_add', loc_data[0] + '++'), ('loc_del', loc_data[1] + '--')):
+        # a missing id should blow up here rather than silently write elsewhere
+        nodes[key].firstChild.data = value
     f.write(svg.toxml('utf-8').decode('utf-8'))
     f.close()
 
@@ -381,13 +383,12 @@ def commit_counter(comment_size):
 
 def svg_element_getter(filename):
     """
-    Prints the element index of every element in the SVG file
+    Prints the index, id and content of every tspan in the SVG file
     """
     svg = minidom.parse(filename)
-    open(filename, mode='r', encoding='utf-8')
     tspan = svg.getElementsByTagName('tspan')
     for index in range(len(tspan)):
-        print(index, tspan[index].firstChild.data)
+        print(index, tspan[index].getAttribute('id'), tspan[index].firstChild.data)
 
 
 def user_getter(username):

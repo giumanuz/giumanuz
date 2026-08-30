@@ -5,44 +5,70 @@
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
 .commentColor {fill: #8b949e;}
+.ascii {font-size: 8px;}
 text, tspan {white-space: pre;}
 </style>
 
 <rect width="1070px" height="530px" fill="#f6f8fa" rx="15"/>
 
 <text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">              (( ##%(%((####(##(                </tspan>
-<tspan x="15" y="50">        (##(###%##(#(##(%#%##%((%#% *(          </tspan>
-<tspan x="15" y="70">       ####%%#(#%#%%%%%#%###%%#@/(#%(/(         </tspan>
-<tspan x="15" y="90">     (%%%#%%%%%%(###%%%#%%###%#%%###%(/#        </tspan>
-<tspan x="15" y="110">       (%#%#%######%#@###@@@@@@@#%%%#### (      </tspan>
-<tspan x="15" y="130">      */#%%%%%%##%#########%#%#@###@@@###%##    </tspan>
-<tspan x="15" y="150">    (%%%#%#####%%%###%%%#@@@@###@@#####@##%%/   </tspan>
-<tspan x="15" y="170">   /##%###########%##%#%###@@###@@#@###@##%##/  </tspan>
-<tspan x="15" y="190">   *%%####@##/(%#%%#%##@%%#%%##%#@###%%@#%(%#   </tspan>
-<tspan x="15" y="210">    /#%#####*/((%###//##%%#@##%%@@@@#####@@##   </tspan>
-<tspan x="15" y="230">.    #%%###***///////(##%#%%%%%###@@####@##/.#  </tspan>
-<tspan x="15" y="250">  //(##%%@#**////***/(((###%%%#%#@###@@@##(/%   </tspan>
-<tspan x="15" y="270"> //((%%###///##/**///(/(((/((((##@@@#@#@##%##   </tspan>
-<tspan x="15" y="290">   ***#%##*/#///(((#(/##/////((@@#@#@@@@###%%%  </tspan>
-<tspan x="15" y="310">   * *(%@%*//%%/(/#%##((#((//(##@@@######@##    </tspan>
-<tspan x="15" y="330">     *(##%****##*//(%%#(##((((%%###@##@###%#    </tspan>
-<tspan x="15" y="350">     */%#%* ****/(((##%(//(((###%@@@#@#%%#(     </tspan>
-<tspan x="15" y="370">      *((%(   ***/(//////(((#@@@@@@###/##*      </tspan>
-<tspan x="15" y="390">      /*(% /*/////****///#(##@@@@@@@%*(#        </tspan>
-<tspan x="15" y="410">       /## **/((##((((((###@@@@@@###            </tspan>
-<tspan x="15" y="430">           ***/(##%%#((///#@#@@#%/%             </tspan>
-<tspan x="15" y="450">          ******/(#(//////(** %                 </tspan>
-<tspan x="15" y="470">       #*  **  *//((////***##                   </tspan>
-<tspan x="15" y="490">     #% **    ***///****** *#%                  </tspan>
-<tspan x="15" y="510">   %###  #/*** **/////*(    #%%#                </tspan>
+<tspan x="15" y="30">                                                                                                </tspan>
+<tspan x="15" y="40">                                                                                                </tspan>
+<tspan x="15" y="50">                                                                                                </tspan>
+<tspan x="15" y="60">                                               ---- -                                           </tspan>
+<tspan x="15" y="70">                                       --:--  -:~~~+!~:~---   :~rl+r                            </tspan>
+<tspan x="15" y="80">                                      :+~rCXtlClltChhhCCChChXhhhC+C8h:                          </tspan>
+<tspan x="15" y="90">                            -       -~tCthXXUUUUOOUOO8OOUUUUUXXhh!~lOO      :                   </tspan>
+<tspan x="15" y="100">                            ~~-  :~~+COU888O888B8B8B8OOOOOUOO88OOOXtUOt~!:--:l:                 </tspan>
+<tspan x="15" y="110">                  -          ++l+lChUOO88B8BB8B8BBBB8888UUU8BB8B8OO88UhhXtl!-tO-                </tspan>
+<tspan x="15" y="120">                :::~--      !!~tUU8888BBB8BB88BBBBBBBB88OUO8BBBB8UUOOOCCOCttt~lt                </tspan>
+<tspan x="15" y="130">                +r!!!r+r!~+tCCUOOO8O88B88B888BBBBBBBBB888OO88888OOO8888OOUUXttXU                </tspan>
+<tspan x="15" y="140">                !t+!!rttCUUOOOOOO888888B888O88888BBBBBBBBB8B8BB88OOO8BBB8OUOOUtU:               </tspan>
+<tspan x="15" y="150">              ~r!lXhChXXUUOOO888O8OO88BO88OUO88OUXhXO8BB88BBBB8B8OO8BBBBBBUO8OXC                </tspan>
+<tspan x="15" y="160">              :rCXhUUUOOOOOO8888OUO888UU888OOUUXC+!!lUOOOOO88BB8BBBB8888BOXUO8Ohl:              </tspan>
+<tspan x="15" y="170">            -rtChUOUO8O88O88888BOOUOUhCX888UUXChhUXtttrtChChXUO88888OOO88O8OOUOOOOl :           </tspan>
+<tspan x="15" y="180">           :UttXXUUOO8O888OOOOOUOUUUhtth8B8OOUXXU8BBl-:!r++ltXUOOUOOO8O8BO88OUUUUXU+            </tspan>
+<tspan x="15" y="190">           ~OtXCCCtUOOOOO888OUOUOUUXtllthOB8OOUUUOOhr~rtChXUUXUUOUOOBB888OB8B8OUUUO-            </tspan>
+<tspan x="15" y="200">            t8htCtU88OO8O888O888O8OCtthCCXUUOXtCl+!~!+thXXXhCCCChXUOOO888BBBB88OOOOl            </tspan>
+<tspan x="15" y="210">            -hUUClhOOOO8B8BBB888OXXXUUUUUUhhhhl+r!++!+ll+ll+r!l+lChUU888B888B88OUUUU-           </tspan>
+<tspan x="15" y="220">            -tUXCCtX888BBBB88OBBUUXXhCtCl+lllChUXCCCXhlr+ltttttCttthOO8B8B8BBBB8OOOXX           </tspan>
+<tspan x="15" y="230">           rCttXUO8BBBBBB8B888UUOhl++ll+r+l+l+COt:-:XU!+tllCCllCt+++CXUBBBBBBBB88OUUX+          </tspan>
+<tspan x="15" y="240">           :!lOOttO888B8888B88OUXh++tCCChCtttlrUt::-rU+~!r!!r!r!!~:~tth8BBBB8B8O8OUOC-          </tspan>
+<tspan x="15" y="250">            -hXlhU88888B88B8BBBOhUlrltlll+rrr~!U+::-:rC!:---:-:::~!r!!lU8888B8OUUOUU            </tspan>
+<tspan x="15" y="260">             lt+XU88O8OBBB8BBBB8Uh+~~~!!~~:--:tt!~--:~!++!!~~~~!!!~::~!lO888OXC+rOt-            </tspan>
+<tspan x="15" y="270">             -+O8O8O88O8B888BBB8X++r!~~::-:~rllr~  --:~!~~:::-   ---~~~lU8UUUt  --              </tspan>
+<tspan x="15" y="280">              :lhUXO8OUUOO8OBBBBXr!!!r!!~~~~~~!!-   --~!!~!::::-- --:~~lCtCXC!-                 </tspan>
+<tspan x="15" y="290">                :tUU8O8888888BBBU!~~---   -:~!!+r:---rlllr~:--~!!:-:~~!tl-lBOXC                 </tspan>
+<tspan x="15" y="300">                 -+ChOUO88B888888C~!~----~~~~!ltCtlltll+llr!~!r+l+~-~!!lt!U8O8+                 </tspan>
+<tspan x="15" y="310">                 --~lthUO8OO8OOUXUl~!~:-~r!!r!!rl+++!~!~!~~~!!!r+r~ !~!lX8OO8+                  </tspan>
+<tspan x="15" y="320">                    --~!r+CU8UOUlrt+!!~-r++!!!!rrr!!~!!!!!!!+tC+- - !:!lXOh:                    </tspan>
+<tspan x="15" y="330">                       -~UXXUO8BUtCC!!!-~!~+tXC!---  -      ~!+:   -!!rtXOhU                    </tspan>
+<tspan x="15" y="340">                        -hr!lCU8BBBXt~!~   -rl+!-:       -~rl!---  ~!+ltUUXh                    </tspan>
+<tspan x="15" y="350">                          !!!hUOO888h+r+!    -~rr!~~:-:--------- - ~!ltChC:                     </tspan>
+<tspan x="15" y="360">                            :lUhO88BOht+!!  -------:::-:~!-:-:----::!lCUC:                      </tspan>
+<tspan x="15" y="370">                              ~tXUUOOOXCl!!----~~~:~~~~~:::::---:-~~+lOl                        </tspan>
+<tspan x="15" y="380">                                -:!!tCUUXtr~:-:--:-- -      ---::~rl+r:                         </tspan>
+<tspan x="15" y="390">                                   -:!hOXtClr!~~:::-   ------!+r+tt+~!-                         </tspan>
+<tspan x="15" y="400">                                      -~rr+tCCCtl++rr!!!!r++CXXhCl~~~~~                         </tspan>
+<tspan x="15" y="410">                                         !!!!lChXXUXUXXUXXUUXhCl!::-:~!                         </tspan>
+<tspan x="15" y="420">                                         -r!~!~!lttChCCttl+rrrrr:---::!                         </tspan>
+<tspan x="15" y="430">                                          !~~:::~rr!~!~-:-  :~!~-  --::+Ut!-                    </tspan>
+<tspan x="15" y="440">                                         Cr::----~!~-       --:~:- --:~!UBB8X:                  </tspan>
+<tspan x="15" y="450">                                       -XO!~-----:~:-         -::-- --~~tO88OXt-                </tspan>
+<tspan x="15" y="460">                                      !hXh!~:----:~::-      --~~:- --::!rlhOOCCCt~              </tspan>
+<tspan x="15" y="470">                                    ~CCCCC!~~:----::::--   --:::- ---:~~!l+hUhCltCt!            </tspan>
+<tspan x="15" y="480">                                 -lthCCCChl!:--- - ::----------- - --::~~rrCXhCCltttCtt+~       </tspan>
+<tspan x="15" y="490">                             -thhXhCCCCCCCCl!:---- ----- -      - --:-::~~+hhhhttttllltChXht+!:-</tspan>
+<tspan x="15" y="500">                        --rCXhhChCCCCCCCtCCCt!:--- ----     - -- ---:---:!lhChhCttlttlltCtChCCtC</tspan>
+<tspan x="15" y="510">                  --~rtCChhhCCChhhtCCtCCCCtCCt+::----------- -    -:----~+CCCtCtltltttttCCCCtCtl</tspan>
+<tspan x="15" y="520">             -:+CChhhChCChChhChhhhCCCCtCCtCtCtCt!~:------- -     -::-  :+CXXCttOUhtttttttCCttttt</tspan>
 </text>
 
 <text x="470" y="30" fill="#24292f">
 <tspan x="470" y="30">giumanuz</tspan>
 <tspan x="470" y="50">——————</tspan>
 <tspan x="470" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">iOS, Linux, Windows</tspan>
-<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">24 years, 10 months, 14 days</tspan>
+<tspan x="470" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor" id="age">24 years, 10 months, 14 days</tspan>
 <tspan x="470" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Polytechnic University of Milan, Italy</tspan><tspan class="commentColor"> #POLIMI</tspan>
 <tspan x="470" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">AI and Machine Learning Engineering</tspan><tspan class="commentColor"/>
 <tspan x="470" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, PyCharm, IntelliJ IDEA, WebStorm</tspan>
@@ -58,9 +84,9 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="410" class="keyColor">Telegram</tspan>: <tspan class="valueColor">@gmanuzz</tspan>
 <tspan x="470" y="430" class="keyColor">Intagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
 <tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="470" y="470">47</tspan>
-<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">61</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">2,730  </tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">6</tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">9   </tspan>
-<tspan x="470" y="570" class="keyColor">Followers</tspan>: <tspan class="valueColor">2,371,856</tspan>| <tspan class="keyColor">4,143,084++</tspan>: <tspan class="valueColor">1,771,228--</tspan> (<tspan class="addColor">1,119,269++</tspan>, <tspan class="delColor">229,059--</tspan>)
+<tspan x="470" y="470">——————</tspan>
+<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor" id="repos">47</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor" id="contrib">61</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor" id="commits">2,730  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor" id="stars">6</tspan>
+<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor" id="followers">9   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor" id="loc">2,371,856</tspan> (<tspan class="addColor" id="loc_add">4,143,084++</tspan>, <tspan class="delColor" id="loc_del">1,771,228--</tspan>)
 </text>
 
 </svg>
