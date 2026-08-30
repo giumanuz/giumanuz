@@ -85,8 +85,8 @@ text, tspan {white-space: pre;}
 <tspan x="470" y="430" class="keyColor">Instagram</tspan>: <tspan class="valueColor">giulio_manuzzii</tspan>
 <tspan x="470" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="470" y="470">——————</tspan>
-<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor" id="repos">47</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor" id="contrib">61</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor" id="commits">2,730  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor" id="stars">6</tspan>
-<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor" id="followers">9   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor" id="loc">2,371,856</tspan> (<tspan class="addColor" id="loc_add">4,143,084++</tspan>, <tspan class="delColor" id="loc_del">1,771,228--</tspan>)
+<tspan x="470" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor" id="repos">47</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor" id="contrib">61</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor" id="commits">2,732  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor" id="stars">6</tspan>
+<tspan x="470" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor" id="followers">9   </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor" id="loc">2,372,298</tspan> (<tspan class="addColor" id="loc_add">4,143,607++</tspan>, <tspan class="delColor" id="loc_del">1,771,309--</tspan>)
 </text>
 
 </svg>
